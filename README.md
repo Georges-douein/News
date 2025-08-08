@@ -20,7 +20,7 @@ npm install --global expo-cli
 
 ## clone the appication's code (directory) into your device by running this command in the terminal (cmd if windows):
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Georges-douein/News.git
 
 ## configure the project:
 
